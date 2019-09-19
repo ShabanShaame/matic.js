@@ -3,6 +3,7 @@ lib
 .DS_Store
 *.log
 dump.rdb
+config.js
 
 test-blockchain/geth
 test-blockchain/history
