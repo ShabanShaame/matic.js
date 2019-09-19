@@ -4,6 +4,7 @@ lib
 *.log
 dump.rdb
 config.js
+examples/node/config.js
 
 test-blockchain/geth
 test-blockchain/history
